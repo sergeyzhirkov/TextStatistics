@@ -1,0 +1,4 @@
+Результат:
+count symbols = 193
+count symbols without gaps = 167
+count words = 26
